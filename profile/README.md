@@ -5,9 +5,8 @@ We're a small studio of technical experts accelerating projects to completion. W
 Along with what you'll find in our public repos, be sure to check out:
 
 - [**Our Blog:**](https://www.virtualmaker.dev?utm_source=company_readme) A resource with plenty of lessons and insights. We try to post regularly.
-- **Buildalon:** A comprehensive suite of automation tools to help developers build, test, and deploy their projects faster. So comprehensive, it's its own organization!
-  - [Website](https://www.buildalon.com/?utm_source=company_readme).
-  - [GitHub Marketplace](https://github.com/marketplace?query=buildalon).
-  - [Organization](https://github.com/buildalon).
+- **Buildalon:** A comprehensive suite of automation tools to help developers build, test, and deploy their projects faster. So comprehensive, it's [its own organization](https://github.com/buildalon)!
+  - [Website](https://www.buildalon.com/?utm_source=company_readme)
+  - [GitHub Marketplace](https://github.com/marketplace?query=buildalon)
 - [**Our Unity Asset Store Page:**](https://assetstore.unity.com/publishers/72095) Take a look at our 5-star tools like [Flexalon](https://www.flexalon.com/?utm_source=company_readme) and [Proxima Inspector](https://www.unityproxima.com/?utm_source=company_readme). We believe that by sharing our tools, we help more great apps come into the world. 
 - [**Virtual Maker VR/3D:**](https://www.virtualmaker.net/?utm_source=company_readme) An in-browser editor to make interactive 3D and VR scenes.
