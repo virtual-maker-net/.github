@@ -12,4 +12,4 @@ Along with what you'll find in our public repos, be sure to check out:
   - [GitHub Marketplace](https://github.com/marketplace?query=buildalon).
   - [Organization](https://github.com/buildalon).
 - [**Our Unity Asset Store Page:**](https://assetstore.unity.com/publishers/72095) Take a look at our 5-star tools like [Flexalon](https://www.flexalon.com/?utm_source=company_readme) and [Proxima Inspector](https://www.unityproxima.com/?utm_source=company_readme). We believe that by sharing our tools, we help more great apps come into the world. 
-- [**Virtual Maker VR/3D:**](https://www.virtualmaker.net/?utm_source=company_readme) An in-browser editor to make interactive 3D amd VR scenes.
+- [**Virtual Maker VR/3D:**](https://www.virtualmaker.net/?utm_source=company_readme) An in-browser editor to make interactive 3D and VR scenes.
