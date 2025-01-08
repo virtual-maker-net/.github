@@ -8,11 +8,11 @@ We're a small studio of technical experts accelerating projects to completion. W
 
 | | |
 |:---:|:---|
-| [![Company-Blog](images/company-banner.png)](https://www.virtualmaker.dev?utm_source=company_readme) <br> [**Our Blog**](https://www.virtualmaker.dev?utm_source=company_readme) | A resource with plenty of lessons and insights. We try to post regularly. |
-| [![Buildalon](images/buildalon-banner.png)](https://www.buildalon.com?utm_source=company_readme) <br> [**Buildalon**](https://www.buildalon.com/?utm_source=company_readme) | A comprehensive suite of automation tools to help developers build, test, and deploy their projects faster. |
-| [![Proxima](images/proxima-banner.png)](https://www.unityproxima.com/?utm_source=company_readme) <br> [**Proxima Inspector**](https://www.unityproxima.com/?utm_source=company_readme) | Tool to connect to your live game from a web browser to inspect and edit any property. |
-| [![Flexalon](images/flexalon-banner.png)](https://www.flexalon.com/?utm_source=company_readme) <br> [**Flexalon**](https://www.flexalon.com/?utm_source=company_readme) | A Unity Asset that lets you create adaptive 3D layouts that are precise and easy to update. |
-| [![Virtual-Maker-Editor](images/virtual-maker-banner.png)](https://www.virtualmaker.net/?utm_source=company_readme) <br> [**Virtual Maker VR/3D**](https://www.virtualmaker.net/?utm_source=company_readme) | An in-browser editor to make interactive 3D and VR scenes. |
+| [![Company-Blog](images/company-banner.png)](https://www.virtualmaker.dev?utm_source=company_readme) | [**Our Blog**](https://www.virtualmaker.dev?utm_source=company_readme) <br> A resource with plenty of lessons and insights. We try to post regularly. |
+| [![Buildalon](images/buildalon-banner.png)](https://www.buildalon.com?utm_source=company_readme) | [**Buildalon**](https://www.buildalon.com/?utm_source=company_readme) <br> A comprehensive suite of automation tools to help developers build, test, and deploy their projects faster. |
+| [![Proxima](images/proxima-banner.png)](https://www.unityproxima.com/?utm_source=company_readme) | [**Proxima Inspector**](https://www.unityproxima.com/?utm_source=company_readme) <br> Tool to connect to your live game from a web browser to inspect and edit any property. |
+| [![Flexalon](images/flexalon-banner.png)](https://www.flexalon.com/?utm_source=company_readme) | [**Flexalon**](https://www.flexalon.com/?utm_source=company_readme) <br> A Unity Asset that lets you create adaptive 3D layouts that are precise and easy to update. |
+| [![Virtual-Maker-Editor](images/virtual-maker-banner.png)](https://www.virtualmaker.net/?utm_source=company_readme) | [**Virtual Maker VR/3D**](https://www.virtualmaker.net/?utm_source=company_readme) <br> An in-browser editor to make interactive 3D and VR scenes. |
 
 ## Services
 
