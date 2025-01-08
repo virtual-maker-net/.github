@@ -24,20 +24,3 @@ We offer our services in the form of contract work. Us at Virtual Maker can work
 ](https://www.virtualmaker.dev/contact?utm_source=company_readme)
 
 </div>
-
-
-<div align="center">
-
-### Recent Clients
-
-<a href="https://brcvr.org/"><img height="40" src="images/brcvr-logo.jpg" hspace="2"/></a>
-<a href="https://neomorph.io/"><img height="40" src="images/neomorph-logo.png" hspace="2"/></a>
-<a href="https://skybox.blockadelabs.com/"><img height="40" src="images/blockade-logo.svg" hspace="2"/></a>
-<a href="https://topia.io/"><img height="40" src="images/topia-logo.png" hspace="2"/></a>
-<a href="https://hyper.online/"><img height="16" src="images/hyper-logo.svg" hspace="2"/></a>
-<a href="https://www.coastermaniavr.com/"><img height="30" src="images/coastermania-logo.png" hspace="2"/></a>
-<a href="https://northpolecommandcenter.com/"><img height="40" src="images/northpole-text.png" hspace="2"/></a>
-<a href="https://www.mercivstudio.com/"><img height="30" src="images/merciv-logo.svg" hspace="2"/></a>
-<a href="https://conduit.gg/"><img height="30" src="images/conduit-logo.png" hspace="2"/></a>
-
-</div>
