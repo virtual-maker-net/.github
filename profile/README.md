@@ -7,16 +7,26 @@ We're a small studio of technical experts accelerating projects to completion. W
 Be sure to check out:
 
 - [**Our Blog:**](https://www.virtualmaker.dev?utm_source=company_readme) A resource with plenty of lessons and insights. We try to post regularly.
+
 - [**Buildalon:**](https://www.buildalon.com/?utm_source=company_readme) A comprehensive suite of automation tools to help developers build, test, and deploy their projects faster.
 
+<div align="center">
+  
   [![Buildalon](images/buildalon-banner.png)](https://www.buildalon.dev?utm_source=company_readme)
+</div>
 
 - [**Proxima Inspector:**](https://www.unityproxima.com/?utm_source=company_readme) Tool to connect to your live game from a web browser to inspect and edit any property.
 
+<div align="center">
+
   [![Proxima](images/proxima-banner.png)](https://www.unityproxima.com/?utm_source=company_readme)
+</div>
 
 - [**Flexalon:**](https://www.flexalon.com/?utm_source=company_readme) A Unity Asset that lets you create adaptive 3D layouts that are precise and easy to update.
 
-  [![Flexalon](images/flexalon-banner.png)](https://www.flexalon.com/?utm_source=company_readme)
+<div align="center">
 
+  [![Flexalon](images/flexalon-banner.png)](https://www.flexalon.com/?utm_source=company_readme)
+</div>
+  
 - [**Virtual Maker VR/3D:**](https://www.virtualmaker.net/?utm_source=company_readme) An in-browser editor to make interactive 3D and VR scenes.
