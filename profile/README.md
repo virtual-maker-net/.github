@@ -18,7 +18,7 @@ We're a small studio of technical experts accelerating projects to completion. W
 
 Us at Virtual Maker can work with you on your Unity and web projects to improve your devops, implement core features, and solve your technical/programming problems.
 
-<div align="center" style="padding-top: 40px">
+<div align="center">
 
 [![Static Badge](https://img.shields.io/badge/Tell%20us%20about%20your%20project!-%230082F6?style=for-the-badge)
 ](https://www.virtualmaker.dev/contact?utm_source=company_readme)
