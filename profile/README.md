@@ -16,7 +16,7 @@ We're a small studio of technical experts accelerating projects to completion. W
 
 ## Services
 
-We're offering our services in the form of contract work. Us at Virtual Maker can work with you on your Unity and web projects to improve your devops, implement core features, and solve your technical/programming problems.
+We offer our services in the form of contract work. Us at Virtual Maker can work with you on your Unity and web projects to improve your devops, implement core features, and solve your technical/programming problems.
 
 <div align="center">
 
