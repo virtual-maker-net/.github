@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/939721153688264824.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VM9cWJ9rjH) [![Asset-Store](https://img.shields.io/badge/_-Asset%20Store-white?logo=unity&labelColor=black)](https://assetstore.unity.com/publishers/72095)
 
-We're a small studio of technical experts accelerating projects to completion. With over two decades of combined experience in 3D development and Unity, our mission is *to help our clients and users deliver exceptional products and experiences.*
+We're a small studio of technical experts accelerating projects to completion. With over two decades of combined experience in 3D development and Unity, our mission is to *help our clients and users deliver exceptional products and experiences.*
 
 ## Resources
 
